@@ -7,7 +7,7 @@ Four models were created using supervised machine learning to analyze the relati
 
 <img src="images/land_tempIndex.png" width="900">
 
-## Gender Comparison:
+## Gender Comparison Using D3:
 
 D3 graph for gender
 
@@ -15,17 +15,19 @@ A scatterplot was created within the app.js file using JavaScript and D3. The da
 
 <img src="images/land_tempIndex.png" width="900">
 
-Comparison of Confirmed Cases, Deaths and Recovered Cases Worldwide using tableau. 
+## Comparison of Confirmed Cases, Deaths and Recovered Cases Worldwide Using Tableau. 
 
 <img src="images/land_tempIndex.png" width="900">
 
-Map using javascript state and county
+## Map of Cases in the U.S. Using JavaScript:
+
+ state and county
 
 n this assignment, an HTML page containing a dynamic table that displays UFO data was created. The table can be filtered by different criteria, and was created using JavaScript, HTML/CSS, and D3.
 
 <img src="images/land_tempIndex.png" width="900">
 
-Tracker and live update
+## Tracker and live Update: 
 
 Visualization of cases around the world using a map. Tracks the number of cases, deaths, recovered cases, new cases and new deaths for every country using an API. 
 
