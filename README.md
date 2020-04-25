@@ -16,17 +16,15 @@ A scatterplot was created using JavaScript and D3 to compare the gender demograp
 
 ## Comparison of Confirmed Cases, Deaths and Recovered Cases Worldwide Using Tableau:
 
-Visualization were created using Tableau to compare the total amount of confirmed cases, deaths and recovered cases worldwide. A second graph was created to compare the same factors for the countries with the highest numbers: China, France, Germany, Iran, Italy, Spain and the U.S. 
+Three graphs were created using Tableau to compare the total amount of confirmed cases, deaths and recovered cases worldwide. A fourth graph was created to compare the same factors for the countries with the highest numbers: China, France, Germany, Iran, Italy, Spain and the U.S. 
 
 <img src="images/tableau.png" width="700">
 
 ## Map of Cases in the U.S. Using JavaScript:
 
- state and county
+A dynamic table that displays the county, state, number of cases, deaths, latitude and longitude for the U.S. was created using JavaScript. The table can be filtered by state and county.
 
-n this assignment, an HTML page containing a dynamic table that displays UFO data was created. The table can be filtered by different criteria, and was created using JavaScript, HTML/CSS, and D3.
-
-<img src="images/land_tempIndex.png" width="900">
+<img src="images/map.png" width="900">
 
 ## Tracker and live Update: 
 
