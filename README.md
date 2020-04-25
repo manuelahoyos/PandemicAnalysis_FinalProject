@@ -12,7 +12,7 @@ Four models were created using supervised machine learning to analyze the relati
 
 D3 graph for gender
 
-A scatterplot was created within the app.js file using JavaScript and D3. The data was pulled from the data.csv file and the d3.select() function was used to append the graph into the HTML file. CSS was used for both the HTML page styling and the scatterplot styling. D3 was used for animations, transitions, click events on the x and y labels, and tooltips when the cursor hovers over the state circles.
+A scatterplot was created using JavaScript and D3 to compare the gender demographics and the total deaths for countries China, France, Germany, Iran, Italy and Spain. D3 was used for animations, transitions, click events on the y labels, and tooltips when the cursor hovers over the circles.
 
 <img src="images/land_tempIndex.png" width="900">
 
