@@ -24,7 +24,7 @@ Three graphs were created using Tableau to compare the total amount of confirmed
 
 A dynamic table that displays the county, state, number of cases, deaths, latitude and longitude for the U.S. was created using JavaScript. The table can be filtered by state and county.
 
-<img src="images/map.png" width="900">
+<img src="images/map.png" width="700">
 
 ## Tracker and live Update: 
 
