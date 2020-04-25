@@ -21,3 +21,5 @@ n this assignment, an HTML page containing a dynamic table that displays UFO dat
 
 
 Tracker and live update
+
+Visualization of cases around the world using a map. Tracks the number of cases, deaths, recovered cases, new cases and new deaths for every country using an API. 
