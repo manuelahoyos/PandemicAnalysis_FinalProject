@@ -25,7 +25,6 @@ button {
 	display: inline-block;
 	text-align: center;
 	align-items: flex-start;
-	font: 400 11px system-ui;
 	font-style: normal;
 	font-variant-ligatures: normal;
 	font-variant-caps: normal;
@@ -66,7 +65,7 @@ button, input {
 	padding: 14px 16px;
 	text-decoration: none;
 	float: right;
-	font-size: 20px;
+	font-size: 40px;
 	font-weight: bold;}
 			
 #navbarRight:hover {
@@ -85,7 +84,7 @@ button, input {
 
 
 #navbarCollapse {
-	font-size: 20px;
+	font-size: 40px;
 	font-weight: bold;
 	font-family: Arial, Helvetica, sans-serif;}
 
