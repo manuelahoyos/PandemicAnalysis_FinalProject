@@ -12,7 +12,7 @@ Four models were created using supervised machine learning to analyze the relati
 
 A scatterplot was created using JavaScript and D3 to compare the gender demographics and the total deaths for countries China, France, Germany, Iran, Italy and Spain. D3 was used for animations, transitions, click events on the y labels, and tooltips when the cursor hovers over the circles.
 
-<img src="images/lgender.png" width="700">
+<img src="images/gender.png" width="700">
 
 ## Comparison of Confirmed Cases, Deaths and Recovered Cases Worldwide Using Tableau. 
 
