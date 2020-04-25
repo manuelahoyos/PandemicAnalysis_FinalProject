@@ -28,9 +28,8 @@ A dynamic table that displays the county, state, number of cases, deaths, latitu
 
 ## Tracker and live Update: 
 
-Visualization of cases around the world using a map. Tracks the number of cases, deaths, recovered cases, new cases and new deaths for every country using an API. 
+A visualization of cases around the world was created using a Plotly map. Also, a live-update tracks the number of cases, deaths, recovered cases, new cases and new deaths for every country using an API. 
 
+<img src="images/tracker.png" width="900">
 
-<img src="images/land_tempIndex.png" width="900">
-
-<img src="images/land_tempIndex.png" width="900">
+<img src="images/update.png" width="900">
