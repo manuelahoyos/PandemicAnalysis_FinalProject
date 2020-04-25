@@ -24,12 +24,12 @@ Three graphs were created using Tableau to compare the total amount of confirmed
 
 A dynamic table that displays the county, state, number of cases, deaths, latitude and longitude for the U.S. was created using JavaScript. The table can be filtered by state and county.
 
-<img src="images/map.png" width="700">
+<img src="images/map.png" width="600">
 
 ## Tracker and live Update: 
 
 A visualization of cases around the world was created using a Plotly map. Also, a live-update tracks the number of cases, deaths, recovered cases, new cases and new deaths for every country using an API. 
 
-<img src="images/tracker.png" width="700">
+<img src="images/tracker.png" width="600">
 
-<img src="images/update.png" width="700">
+<img src="images/update.png" width="600">
