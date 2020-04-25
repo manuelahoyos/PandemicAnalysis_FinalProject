@@ -14,9 +14,11 @@ A scatterplot was created using JavaScript and D3 to compare the gender demograp
 
 <img src="images/gender.png" width="500">
 
-## Comparison of Confirmed Cases, Deaths and Recovered Cases Worldwide Using Tableau. 
+## Comparison of Confirmed Cases, Deaths and Recovered Cases Worldwide Using Tableau:
 
-<img src="images/land_tempIndex.png" width="900">
+Visualization were created using Tableau to compare the total amount of confirmed cases, deaths and recovered cases worldwide. A second graph was created to compare the same factors for the countries with the highest numbers: China, France, Germany, Iran, Italy, Spain and the U.S. 
+
+<img src="images/tableau.png" width="900">
 
 ## Map of Cases in the U.S. Using JavaScript:
 
