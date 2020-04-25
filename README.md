@@ -14,7 +14,7 @@ A scatterplot was created within the app.js file using JavaScript and D3. The da
 Comparison of Confirmed Cases, Deaths and Recovered Cases Worldwide using tableau. 
 
 
-Map using javascript 
+Map using javascript state and county
 
 n this assignment, an HTML page containing a dynamic table that displays UFO data was created. The table can be filtered by different criteria, and was created using JavaScript, HTML/CSS, and D3.
 
