@@ -1,4 +1,4 @@
-# PandemicAnalysis_FinalProject
+# Pandemic Analysis
 
 Final group project in which the COVID-19 data were analyzed and trends were visualized using Python, Pandas, Machine Learning, Plotly, JavaScript, D3, Tableau and HTML/CSS. We examined the amount of cases and deaths that have been reported for every country, as well as compared the amount of cases per state within the United States. Moreover, we compared the gender demographics and death rates for people infected with this virus.
 
@@ -6,7 +6,7 @@ Final group project in which the COVID-19 data were analyzed and trends were vis
 
 Four models were created using supervised machine learning to analyze the relationship between the number of confirmed cases and the number of deaths/recovered cases for all countries, as well as the relationship between deaths and gender. Using linear regression and calculating the R-squared score, the relationship between these values was determined.
 
-<img src="images/models.png" width="700">
+<img src="images/models.png" width="600">
 
 ## Gender Comparison Using D3:
 
