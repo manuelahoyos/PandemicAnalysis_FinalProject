@@ -4,7 +4,7 @@ Final group project in which the COVID-19 data were analyzed and trends were vis
 
 ## Machine Learning Models:
 
-Four models were created using supervised machine learning to analyze the relationship between the number of confirmed cases and the number of deaths/recovered cases for all countries, as well as the relationship between deaths and gender. Using linear regression and calculating the R-squared score, the relationship between these values was determined.
+Four models were created using supervised machine learning to analyze the relationship between the number of confirmed cases and the number of deaths/recovered cases for all countries, as well as the relationship between deaths and gender. Using linear regression and calculating the R-squared score, the relationships among these values were determined.
 
 <img src="images/models.png" width="500">
 
